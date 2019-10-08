@@ -129,6 +129,7 @@ body{
     margin-right: 25px;
     margin-bottom: 25px;
     cursor: pointer;
+    text-align: center;
 }
 
 .icon-holder-two{
@@ -146,6 +147,7 @@ body{
     border-radius: 50%;
     transform: scale(1);
     transition: .3s ease;
+    display: inline-block;
 }
 
 .icon:hover{
@@ -383,3 +385,4 @@ body{
         cursor: pointer;
         border: 1px solid #4D95FB;
     }
+}
